@@ -50,10 +50,11 @@
       "last 1 safari version"
     ]
   },
-  "module": "index.tsx",
+  "module": "src/index.tsx",
   "type": "module",
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "@flydotio/dockerfile": "latest",
     "@types/web": "^0.0.115",
     "bun-types": "latest"
   },
