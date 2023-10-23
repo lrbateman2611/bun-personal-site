@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for small-meadow-7065 on 2023-10-22T20:27:17-04:00
+# fly.toml app configuration file generated for bun-personal-site on 2023-10-22T20:36:19-04:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = "small-meadow-7065"
+app = "bun-personal-site"
 primary_region = "atl"
 
 [build]
